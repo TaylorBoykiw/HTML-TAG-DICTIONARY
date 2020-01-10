@@ -1,0 +1,29 @@
+<a> = for making something a link (a= anchor? forgotten meaning of why but this is what it means)
+attributes= yes
+example=<a> </a>
+
+<h1> = header tag, makes the text large and puts it on a separate line
+<h2>-- can have multiple headdings with each heading getting smaller
+attributes= none
+example=<h1> </h1>
+<h2> </h2> 
+
+<img > = for inserting an image 
+attributes= yes
+example= <img src=" "> 
+
+<li>= listing things with numbers, comes after <ol>
+attributes=none
+example=<li> </li>
+
+<ol>= the start of a list, there after <li> would follow (with numbers)
+attributes= none
+example=<ol> </ol>
+
+<p>= for a paragraph, blocks of writing
+attributes= none
+example=<p> </p>
+
+<ul>= unordered list
+attributes= none
+example= <ul> </ul>
