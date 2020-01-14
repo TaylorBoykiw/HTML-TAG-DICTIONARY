@@ -2,11 +2,22 @@
 attributes= yes
 example=<a> </a>
 
+<!doctrine>= selects most recent language
+attributes= selects most recent language depending on what you type, such as html
+examlpe= <!DOCTYPE html>
+
 <h1> = header tag, makes the text large and puts it on a separate line
 <h2>-- can have multiple headdings with each heading getting smaller
 attributes= none
 example=<h1> </h1>
 <h2> </h2> 
+
+<head> =things for your browser to think about
+attributes:
+examples: <head> </head>
+
+<html> = useful only for html formating 
+example= <html> </html>
 
 <img > = for inserting an image 
 attributes= yes
